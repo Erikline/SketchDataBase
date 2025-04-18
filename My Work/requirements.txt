@@ -1,0 +1,8 @@
+flask
+werkzeug
+pillow
+torch
+numpy
+scipy
+matplotlib
+tqdm
