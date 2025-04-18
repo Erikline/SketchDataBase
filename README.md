@@ -66,4 +66,4 @@ I have no idea about why the resnet34 got that bad result, while the vgg16 and r
 
 # Attention
 
-I just try to train Resnet34 to build a sketchy database, if you would like to learn more, please contact the original author with this link:https://github.com/CDOTAD/SketchyDatabase thankfully!
+I just try to train Resnet34 model to build a sketchy database in Ubuntu OS, if you would like to learn more, please contact the original author with this link:https://github.com/CDOTAD/SketchyDatabase thankfully!
