@@ -52,18 +52,6 @@ using [retrieval_test.py](https://github.com/CDOTAD/SketchyDatabase/blob/master/
 
 I have no idea about why the resnet34 got that bad result, while the vgg16 and resnet50 resulted pretty well.
 
-
-**The boxes represent the photos, while the points represent the sketches.**
-
-|                    model                  |                     vis                   |
-|                    :---:                  |                    :---:                  |
-|       resnet34 pretrained on ImageNet     |![](record/feature_vis/resnet_imagenet.png)|
-|    **pretrained; sketch branch& photo branch are trained sparately**           |
-|         resnet34                          |![](record/feature_vis/resnet_separate.png)| 
-|    **pretrained; mixed training set**                                                 |
-|      resnet34 after 90 training epoch     |   ![](record/feature_vis/resnet_90.png)   |
-|      resnet34 after 150 training epoch    |   ![](record/feature_vis/resnet_150.png)  |
-
 # Attention
 
 I just try to train Resnet34 model to build a sketchy database in Ubuntu OS, if you would like to learn more, please contact the original author with this link:https://github.com/CDOTAD/SketchyDatabase thankfully!
